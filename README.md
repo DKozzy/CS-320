@@ -9,7 +9,7 @@ CS-320 emphasizes creating tests that uncover errors, analyzing testing approach
 
 - Project One: Service Implementations + Tests
 - Contact.java, ContactService.java, ContactTest.java, ContactServiceTest.java
-- Project Two: Summary & Reflections Report
+- Project Two: Summary & Reflections Report: 
 A written analysis covering test approach, quality/coverage, techniques used (and not used), and professional testing mindset. 
 
 ## Why This Project Matters
